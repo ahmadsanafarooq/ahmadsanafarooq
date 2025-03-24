@@ -32,6 +32,9 @@ I'm looking for roles or projects where I can:
 ## 🤝 **Let’s Connect!**  
 I’d love to discuss ideas, collaborate on projects, or explore potential opportunities. Let’s talk about:  
 🔹 **Data Science** | 🔹 **Machine Learning** | 🔹 **AI Trends**  
+🎯 **Explore my data science journey:**  
+- [📊 Maven Analytics Portfolio](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed?index)  
+- [📈 Kaggle](https://www.kaggle.com/ahmadsanafarooq)  
 
 📫 **Reach me at:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)  
