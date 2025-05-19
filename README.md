@@ -38,6 +38,15 @@ I’m excited to apply my existing skills while learning to build more intellige
 
 ---
 
+## 🌟 Fun Facts & Interests
+
+- 📚 Currently exploring **AI Agents** and **LLMs** with a passion for deepening my knowledge in **Artificial Intelligence**.
+- 🌍 **Travel Enthusiast** – I love exploring new cultures and exchanging ideas with people globally.
+- 💻 Passionate about **creating intuitive dashboards** that make complex data simple and actionable.
+- 🚀 I believe in the power of **continuous learning** – there’s always something new to discover in the world of data science!
+
+---
+
 ## 🤝 Let’s Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)
