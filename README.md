@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ahmad Sana Farooq</h1>
 
-<h3 align="center">Data Scientist | ML & DL Engineer | NLP | Computer Vision | LLMs | AI Agent Enthusiast | Dashboard Specialist</h3>
+<h3 align="center">Data Scientist | ML & DL Engineer | NLP | Computer Vision | Learning AI Agents & LLMs | Dashboard Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -13,15 +13,18 @@
 
 ## 🚀 About Me
 
-🎓 **I'm a passionate Data Scientist** with a robust foundation in **Python** and a strong focus on **Machine Learning (ML)** and **Deep Learning (DL)**. I specialize in:
+🎓 **I'm a passionate Data Scientist** with a solid foundation in **Python** and **Machine Learning (ML)**, focusing on **Deep Learning (DL)**. Currently, I'm **learning** about:
 
 - 🧠 **AI Agents** and **Large Language Models (LLMs)**
+
+Additionally, I have hands-on experience in the following areas:
+
 - 🗣️ **Natural Language Processing** (NLP)
 - 👁️ **Computer Vision** & Image Classification
-- 📊 **Interactive Dashboards** using **Excel** & **Power BI**
-- 🧹 **Data Cleaning**, **Feature Engineering**, & **Visualization**
+- 📊 **Building Interactive Dashboards** with **Excel** & **Power BI**
+- 🧹 **Data Cleaning**, **Feature Engineering**, & **Data Visualization**
 
-I’m deeply invested in building intelligent systems with **AI Agents** and utilizing **LLMs** to solve real-world problems.
+I’m excited to apply my existing skills while learning to build more intelligent and advanced systems with **AI Agents** and **LLMs**.
 
 ---
 
