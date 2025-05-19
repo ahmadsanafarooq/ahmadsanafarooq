@@ -35,16 +35,6 @@ I love transforming messy data into **insightful stories** and **impactful model
 | LLM APIs (OpenAI, HuggingFace) | Streamlit, Flask | Tableau (Basics) |
 
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="40%" />
-</p>
-
----
-
 ## 🤝 Let’s Connect!
 
 - 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmad-sana-farooq/))
