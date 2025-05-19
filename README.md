@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi there, I'm Ahmad Sana Farooq</h1>
+<h1 align="center">👋 Hi, I'm Ahmad Sana Farooq</h1>
 
-<h3 align="center">Data Scientist | ML & DL Engineer | NLP | Computer Vision | LLMs | Dashboard Specialist</h3>
+<h3 align="center">Data Scientist | ML & DL Engineer | NLP | Computer Vision | LLMs | AI Agent Enthusiast | Dashboard Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -13,16 +13,15 @@
 
 ## 🚀 About Me
 
-🎓 I'm a passionate **Data Scientist** with a strong foundation in Python and end-to-end data workflows. I specialize in:
+🎓 **I'm a passionate Data Scientist** with a robust foundation in **Python** and a strong focus on **Machine Learning (ML)** and **Deep Learning (DL)**. I specialize in:
 
-- 🧠 **Machine Learning** & **Deep Learning**
+- 🧠 **AI Agents** and **Large Language Models (LLMs)**
 - 🗣️ **Natural Language Processing** (NLP)
 - 👁️ **Computer Vision** & Image Classification
-- 🤖 **Large Language Models (LLMs)**
 - 📊 **Interactive Dashboards** using **Excel** & **Power BI**
 - 🧹 **Data Cleaning**, **Feature Engineering**, & **Visualization**
 
-I love transforming messy data into **insightful stories** and **impactful models** that drive decisions.
+I’m deeply invested in building intelligent systems with **AI Agents** and utilizing **LLMs** to solve real-world problems.
 
 ---
 
@@ -34,23 +33,17 @@ I love transforming messy data into **insightful stories** and **impactful model
 | Matplotlib, Seaborn | OpenCV, NLTK, SpaCy | Plotly, Dash |
 | LLM APIs (OpenAI, HuggingFace) | Streamlit, Flask | Tableau (Basics) |
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsanafarooq&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsanafarooq&layout=compact&theme=radical" width="40%" />
-</p>
+---
 
 ## 🤝 Let’s Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)
-- 🌐 [Kaggle](https://www.kaggle.com/ahmadsanafarooq)
+- 📊 [Kaggle](https://www.kaggle.com/ahmadsanafarooq)
 - 📊 [Maven Analytics Profile](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed)
 - 📬 **Email:** [ahmadsanafarooq@gmail.com](mailto:ahmadsanafarooq@gmail.com)
-- 💼 Open to freelance, collaboration, and data-driven projects!
 
 ---
 
 <p align="center">
-  🚀 *Eager to build, learn, and collaborate on real-world problems using data and AI.*
+  🚀 *Always exploring the latest trends in AI, eager to learn and build with AI Agents and LLMs.*  
 </p>
