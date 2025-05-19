@@ -34,6 +34,12 @@ I love transforming messy data into **insightful stories** and **impactful model
 | Matplotlib, Seaborn | OpenCV, NLTK, SpaCy | Plotly, Dash |
 | LLM APIs (OpenAI, HuggingFace) | Streamlit, Flask | Tableau (Basics) |
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsanafarooq&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsanafarooq&layout=compact&theme=radical" width="40%" />
+</p>
 
 ## 🤝 Let’s Connect!
 
