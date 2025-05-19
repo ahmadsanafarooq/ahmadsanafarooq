@@ -37,10 +37,10 @@ I love transforming messy data into **insightful stories** and **impactful model
 
 ## 🤝 Let’s Connect!
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmad-sana-farooq/))
-- 🌐 [Kaggle]([https://yourportfolio.com/](https://www.kaggle.com/ahmadsanafarooq))
-- 📊 [Maven Analytics Profile]([https://mavenanalytics.io/](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed))
-- 📬 **Email:** ahmadsanafarooq@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)
+- 🌐 [Kaggle](https://www.kaggle.com/ahmadsanafarooq)
+- 📊 [Maven Analytics Profile](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed)
+- 📬 **Email:** [ahmadsanafarooq@gmail.com](mailto:ahmadsanafarooq@gmail.com)
 - 💼 Open to freelance, collaboration, and data-driven projects!
 
 ---
