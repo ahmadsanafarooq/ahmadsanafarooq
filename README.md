@@ -52,7 +52,7 @@ I’m excited to apply my existing skills while learning to build more intellige
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)
 - 📊 [Kaggle](https://www.kaggle.com/ahmadsanafarooq)
 - 📊 [Maven Analytics Profile](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed)
-- 📬 **Email:** [ahmadsanafarooq@gmail.com](mailto:ahmadsanafarooq@gmail.com)
+- 📬 [Email](mailto:ahmadsanafarooq@gmail.com)
 
 ---
 
