@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
@@ -12,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-2E3440?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHBhdGggZD0iTTEwIDIgTDYgMTIgTDEwIDIyIEwxNiAyMiBMMjAgMTIgTDE2IDIgTDEwIDIgWiBNMTIgNSBMMyAxMiBMMTIgMTkgTDE5IDEyIEwxMiA1IFoiIC8+PC9zdmc+" alt="LangChain Logo" height="28"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Generative AI" height="28"/>
+  <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" height="28"/>
 </p>
 
 ---
@@ -40,7 +41,7 @@ I'm passionate about building **intelligent systems** and making data **actionab
 |--------------------------|----------------|------------------|
 | Python, NumPy, Pandas | TensorFlow, Keras, XGBoost | Power BI, Excel |
 | Matplotlib, Seaborn | OpenCV, NLTK, SpaCy | Plotly, Dash |
-| LLM APIs (OpenAI, Hugging Face) | Streamlit, Flask | Tableau (Basics) |
+| Scikit-learn, LLM APIs (OpenAI, Hugging Face) | Streamlit, Flask | Tableau (Basics) |
 
 ---
 
