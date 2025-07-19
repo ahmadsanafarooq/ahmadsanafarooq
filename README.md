@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ahmad Sana Farooq</h1>
 
-<h3 align="center">Data Scientist | ML & DL Engineer | NLP | Computer Vision | Learning AI Agents & LLMs | Dashboard Specialist</h3>
+<h3 align="center">Data Scientist | ML & DL Engineer | NLP & Computer Vision Enthusiast | Learning AI Agents & LLMs | Dashboard Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -13,49 +13,57 @@
 
 ## 🚀 About Me
 
-🎓 **I'm a passionate Data Scientist** with a solid foundation in **Python** and **Machine Learning (ML)**, focusing on **Deep Learning (DL)**. Currently, I'm **learning** about:
+🎓 I'm a **curious and driven Data Scientist** with a strong foundation in **Python**, **Machine Learning**, and a growing specialization in **Deep Learning**.
 
+Currently exploring:
 - 🧠 **AI Agents** and **Large Language Models (LLMs)**
 
-Additionally, I have hands-on experience in the following areas:
+My expertise includes:
+- 🗣️ **Natural Language Processing (NLP)**  
+- 👁️ **Computer Vision**  
+- 📊 **Dashboard Development** using **Power BI** & **Excel**  
+- 🧹 **Data Cleaning**, **Feature Engineering**, & **Visualization**
 
-- 🗣️ **Natural Language Processing** (NLP)
-- 👁️ **Computer Vision** & Image Classification
-- 📊 **Building Interactive Dashboards** with **Excel** & **Power BI**
-- 🧹 **Data Cleaning**, **Feature Engineering**, & **Data Visualization**
-
-I’m excited to apply my existing skills while learning to build more intelligent and advanced systems with **AI Agents** and **LLMs**.
+I'm passionate about building **intelligent systems** and making data **actionable and insightful** through analytics and automation.
 
 ---
 
 ## 🧠 Skills & Tech Stack
 
-| Language & Frameworks | Data & ML Tools | BI & Visualization |
-|------------------------|------------------|---------------------|
-| Python, NumPy, Pandas, Scikit-learn | TensorFlow, Keras, XGBoost | Power BI, Excel |
+| Programming & Libraries | ML & AI Tools | BI & Dashboards |
+|--------------------------|----------------|------------------|
+| Python, NumPy, Pandas | TensorFlow, Keras, XGBoost | Power BI, Excel |
 | Matplotlib, Seaborn | OpenCV, NLTK, SpaCy | Plotly, Dash |
-| LLM APIs (OpenAI, HuggingFace) | Streamlit, Flask | Tableau (Basics) |
+| LLM APIs (OpenAI, Hugging Face) | Streamlit, Flask | Tableau (Basics) |
 
 ---
 
-## 🌟 Fun Facts & Interests
+## 🌟 Interests & Fun Facts
 
-- 📚 Currently exploring **AI Agents** and **LLMs** with a passion for deepening my knowledge in **Artificial Intelligence**.
-- 🌍 **Travel Enthusiast** – I love exploring new cultures and exchanging ideas with people globally.
-- 💻 Passionate about **creating intuitive dashboards** that make complex data simple and actionable.
-- 🚀 I believe in the power of **continuous learning** – there’s always something new to discover in the world of data science!
+- 🔍 Currently learning how to build **Autonomous AI Agents** with **LLMs**
+- 🌐 I love **traveling** and connecting with people from diverse cultures
+- 📊 Creating **interactive dashboards** that simplify complex insights is my happy place
+- 📚 Firm believer in **lifelong learning** – there's always something new in AI!
 
 ---
 
-## 🤝 Let’s Connect!
+## 📬 Let’s Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)
 - 📊 [Kaggle](https://www.kaggle.com/ahmadsanafarooq)
-- 📊 [Maven Analytics Profile](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed)
-- 📬 [Email](mailto:ahmadsanafarooq@gmail.com)
+- 📈 [Maven Analytics Profile](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed)
+- 📧 [Email Me](mailto:ahmadsanafarooq@gmail.com)
 
 ---
 
 <p align="center">
-  🚀 *Always exploring the latest trends in AI, eager to learn and build with AI Agents and LLMs.*  
+  🚀 *Always building, always learning – exploring the future of AI with Agents, LLMs, and beyond.*
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsanafarooq&show_icons=true&theme=radical" alt="Ahmad's GitHub Stats" />
 </p>
