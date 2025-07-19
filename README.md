@@ -64,7 +64,8 @@ I'm passionate about building **intelligent systems** and making data **actionab
 
 ## 📈 GitHub Stats
 
+<!-- Requires Wakatime setup -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsanafarooq&show_icons=true&theme=radical" alt="Ahmad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadsanafarooq&theme=radical" />
 </p>
 
