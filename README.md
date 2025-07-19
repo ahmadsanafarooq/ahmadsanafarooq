@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-2E3440?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHBhdGggZD0iTTEwIDIgTDYgMTIgTDEwIDIyIEwxNiAyMiBMMjAgMTIgTDE2IDIgTDEwIDIgWiBNMTIgNSBMMyAxMiBMMTIgMTkgTDE5IDEyIEwxMiA1IFoiIC8+PC9zdmc+" alt="LangChain Logo" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Generative AI" height="28"/>
+</p>
+
 ---
 
 ## 🚀 About Me
