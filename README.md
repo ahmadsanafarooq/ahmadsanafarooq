@@ -62,10 +62,8 @@ I'm passionate about building **intelligent systems** and making data **actionab
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Contribution Streak
 
-<!-- Requires Wakatime setup -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadsanafarooq&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadsanafarooq&theme=radical&hide_border=true" alt="Ahmad's GitHub Streak"/>
 </p>
-
