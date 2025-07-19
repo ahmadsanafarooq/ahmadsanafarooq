@@ -67,3 +67,4 @@ I'm passionate about building **intelligent systems** and making data **actionab
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadsanafarooq&show_icons=true&theme=radical" alt="Ahmad's GitHub Stats" />
 </p>
+
