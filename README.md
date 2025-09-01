@@ -1,80 +1,95 @@
 <h1 align="center">👋 Hi, I'm Ahmad Sana Farooq</h1>
 
-<h3 align="center">Data Scientist | ML & DL Engineer | NLP & Computer Vision Enthusiast | Learning AI Agents & LLMs | Dashboard Specialist</h3>
+<h3 align="center">🚀 Data Scientist | ML & DL Engineer | NLP & CV Enthusiast | Exploring AI Agents, Agentic AI & CrewAI | Dashboard Specialist</h3>
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <!-- Languages & Core -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  
+  <!-- ML & DL -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  
+  <!-- AI Agents -->
+  <img src="https://img.shields.io/badge/LangChain-2E3440?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-1E90FF?style=for-the-badge&logo=brains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>
+  
+  <!-- NLP & CV -->
+  <img src="https://img.shields.io/badge/NLTK-154F8B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  
+  <!-- BI Tools -->
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-2E3440?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHBhdGggZD0iTTEwIDIgTDYgMTIgTDEwIDIyIEwxNiAyMiBMMjAgMTIgTDE2IDIgTDEwIDIgWiBNMTIgNSBMMyAxMiBMMTIgMTkgTDE5IDEyIEwxMiA1IFoiIC8+PC9zdmc+" alt="LangChain Logo" height="28"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" height="28"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Agentic_AI-1E90FF?style=for-the-badge&logo=ai&logoColor=white" alt="Agentic AI" height="28"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=rocket&logoColor=white" alt="CrewAI" height="28"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-🎓 I'm a **curious and driven Data Scientist** with a strong foundation in **Python**, **Machine Learning**, and a growing specialization in **Deep Learning**.
+🎓 I’m a **Data Scientist** passionate about solving **real-world problems** with **Machine Learning & Deep Learning**.  
 
-Currently exploring:
-- 🧠 **AI Agents**, **Agentic AI**, and **Large Language Models (LLMs)**
-- 🤖 **Multi-Agent Systems** with **CrewAI** and **LangChain**
+💡 My current focus:  
+- 🧠 Building **AI Agents** using **LangChain, Agentic AI & CrewAI**  
+- 🤖 Exploring **Multi-Agent Systems** for automation & decision-making  
+- 📊 Designing **interactive dashboards** in **Power BI & Excel**  
 
-My expertise includes:
-- 🗣️ **Natural Language Processing (NLP)**  
-- 👁️ **Computer Vision**  
-- 📊 **Dashboard Development** using **Power BI** & **Excel**  
-- 🧹 **Data Cleaning**, **Feature Engineering**, & **Visualization**
-
-I'm passionate about building **intelligent systems** and making data **actionable and insightful** through analytics and automation.
+🌍 I enjoy making data **actionable and insightful** while learning the **next big thing in AI**.  
 
 ---
 
-## 🧠 Skills & Tech Stack
+## 🧠 Skills Snapshot  
 
-| Programming & Libraries | ML & AI Tools | BI & Dashboards |
-|--------------------------|----------------|------------------|
-| Python, NumPy, Pandas | TensorFlow, Keras, XGBoost | Power BI, Excel |
-| Matplotlib, Seaborn | OpenCV, NLTK, SpaCy | Plotly, Dash |
-| Scikit-learn, LLM APIs (OpenAI, Hugging Face) | LangChain, CrewAI, Agentic AI, Streamlit, Flask | Tableau (Basics) |
-
----
-
-## 🌟 Interests & Fun Facts
-
-- 🔍 Currently learning how to build **Autonomous AI Agents** with **Agentic AI** & **CrewAI**
-- 🌐 I love **traveling** and connecting with people from diverse cultures
-- 📊 Creating **interactive dashboards** that simplify complex insights is my happy place
-- 📚 Firm believer in **lifelong learning** – there's always something new in AI!
+- **Programming & Libraries**: Python, NumPy, Pandas, Matplotlib, Seaborn  
+- **Machine Learning**: Scikit-learn, XGBoost, TensorFlow, Keras  
+- **AI Agents**: LangChain, CrewAI, Agentic AI, Generative AI APIs (OpenAI, Hugging Face)  
+- **NLP & CV**: NLTK, SpaCy, OpenCV  
+- **Dashboards & BI**: Power BI, Excel, Tableau  
 
 ---
 
-## 📬 Let’s Connect!
+## 🌟 Fun Facts  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)
-- 📊 [Kaggle](https://www.kaggle.com/ahmadsanafarooq)
-- 📈 [Maven Analytics Profile](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed)
-- 📧 [Email Me](mailto:ahmadsanafarooq@gmail.com)
+- 🔍 Currently experimenting with **autonomous AI agents** 🤖  
+- 🌐 Love traveling & learning from diverse cultures  
+- 📚 Firm believer in **lifelong learning**  
+- 🎨 Enjoy transforming **complex data → simple insights**  
+
+---
+
+## 📬 Let’s Connect  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sana-farooq/)  
+- 📊 [Kaggle](https://www.kaggle.com/ahmadsanafarooq)  
+- 📈 [Maven Analytics](https://mavenanalytics.io/profile/083183a0-50d1-705f-485e-648bba64f2ed)  
+- 📧 [Email Me](mailto:ahmadsanafarooq@gmail.com)  
 
 ---
 
 <p align="center">
-  🚀 *Always building, always learning – exploring the future of AI with Agents, Agentic AI, CrewAI, and beyond.*
+  🚀 <b>Always building, always learning</b> – exploring the future of AI with <b>Agents, Agentic AI, CrewAI & beyond</b>.
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadsanafarooq&theme=radical&hide_border=true" alt="Ahmad's GitHub Streak"/>
