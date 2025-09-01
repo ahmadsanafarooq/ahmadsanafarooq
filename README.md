@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Ahmad Sana Farooq</h1>
 
-<h3 align="center">🚀 Data Scientist | ML & DL Engineer | NLP & CV Enthusiast | Exploring AI Agents, Agentic AI & CrewAI | Dashboard Specialist</h3>
+<h3 align="center">🚀 Data Scientist | ML & DL Engineer | NLP & CV Enthusiast | Exploring Agentic AI | Dashboard Specialist</h3>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack  
 
 <p align="center">
-  <!-- Languages & Core -->
+  <!-- Core Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -17,13 +17,12 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  
+
   <!-- AI Agents -->
-  <img src="https://img.shields.io/badge/LangChain-2E3440?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agentic_AI-1E90FF?style=for-the-badge&logo=brains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-2E3440?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>
-  
+
   <!-- NLP & CV -->
   <img src="https://img.shields.io/badge/NLTK-154F8B?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
@@ -44,33 +43,36 @@
 
 ## 🚀 About Me  
 
-🎓 I’m a **Data Scientist** passionate about solving **real-world problems** with **Machine Learning & Deep Learning**.  
+🌟 Hi there! I’m **Ahmad Sana Farooq**, a **Data Scientist** passionate about turning data into **intelligent solutions**.  
 
-💡 My current focus:  
-- 🧠 Building **AI Agents** using **LangChain, Agentic AI & CrewAI**  
-- 🤖 Exploring **Multi-Agent Systems** for automation & decision-making  
-- 📊 Designing **interactive dashboards** in **Power BI & Excel**  
+💡 I specialize in:  
+- 🧠 **Machine Learning & Deep Learning**  
+- 🗣️ **Natural Language Processing**  
+- 👁️ **Computer Vision**  
+- 📊 **Interactive Dashboards** (Power BI, Excel)  
 
-🌍 I enjoy making data **actionable and insightful** while learning the **next big thing in AI**.  
+🔥 My latest obsession is **Agentic AI** – building **autonomous AI agents** that can reason, plan, and act with minimal human input.  
+
+I believe in making AI **practical, useful, and impactful** 🚀  
 
 ---
 
 ## 🧠 Skills Snapshot  
 
-- **Programming & Libraries**: Python, NumPy, Pandas, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-learn, XGBoost, TensorFlow, Keras  
-- **AI Agents**: LangChain, CrewAI, Agentic AI, Generative AI APIs (OpenAI, Hugging Face)  
-- **NLP & CV**: NLTK, SpaCy, OpenCV  
-- **Dashboards & BI**: Power BI, Excel, Tableau  
+- **Programming & Data** → Python, NumPy, Pandas  
+- **Machine Learning** → Scikit-learn, TensorFlow, Keras, XGBoost  
+- **AI Agents** → Agentic AI, LangChain, Generative AI APIs (OpenAI, Hugging Face)  
+- **NLP & CV** → NLTK, SpaCy, OpenCV  
+- **Visualization & BI** → Power BI, Excel, Tableau, Matplotlib, Seaborn, Plotly  
 
 ---
 
 ## 🌟 Fun Facts  
 
-- 🔍 Currently experimenting with **autonomous AI agents** 🤖  
-- 🌐 Love traveling & learning from diverse cultures  
+- 🔍 Exploring how **Agentic AI** can transform workflows  
+- 🌐 Love traveling & connecting with diverse communities  
+- 📊 Enjoy simplifying **complex insights into interactive dashboards**  
 - 📚 Firm believer in **lifelong learning**  
-- 🎨 Enjoy transforming **complex data → simple insights**  
 
 ---
 
@@ -84,13 +86,21 @@
 ---
 
 <p align="center">
-  🚀 <b>Always building, always learning</b> – exploring the future of AI with <b>Agents, Agentic AI, CrewAI & beyond</b>.
+  🚀 <b>Always building, always learning</b> – shaping the future with <b>Agentic AI</b>.
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak  
+## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadsanafarooq&theme=radical&hide_border=true" alt="Ahmad's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadsanafarooq&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsanafarooq&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsanafarooq&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
