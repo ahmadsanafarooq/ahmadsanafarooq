@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ahmad Sana Farooq</h1>
 
-<h3 align="center">🚀 Data Scientist | ML & DL Engineer | NLP & CV Enthusiast | Exploring Agentic AI & CrewAI | Dashboard Specialist</h3>
+<h3 align="center">🚀 Data Scientist | ML & DL Engineer | NLP & CV Enthusiast | Exploring Agentic AI, CrewAI & Generative AI | Dashboard Specialist</h3>
 
 ---
 
@@ -44,15 +44,16 @@
 
 ## 🚀 About Me  
 
-🌟 Hi there! I’m **Ahmad Sana Farooq**, a **Data Scientist** passionate about building AI-powered solutions that make a real impact.  
+🌟 Hi there! I’m **Ahmad Sana Farooq**, a **Data Scientist** passionate about building AI-powered solutions that create real-world impact.  
 
 💡 My focus areas:  
-- 🧠 Developing with **Agentic AI** to build autonomous, reasoning-driven systems  
-- 🤖 Creating **multi-agent systems** with **CrewAI** & **LangChain**  
-- 🗣️ Working on **Natural Language Processing** & **Computer Vision** projects  
+- 🧠 Developing **Agentic AI** for autonomous, reasoning-driven systems  
+- 🤖 Building **multi-agent systems** with **CrewAI** & **LangChain**  
+- 🎨 Exploring **Generative AI** to create intelligent, human-like applications  
+- 🗣️ Working on **Natural Language Processing (NLP)** & **Computer Vision (CV)** projects  
 - 📊 Designing **interactive dashboards** with **Power BI** & **Excel**  
 
-✨ I believe in **pushing AI beyond models** — towards **intelligent, goal-driven agents** that learn, adapt, and act.  
+✨ I’m driven by the idea of **pushing AI beyond static models** — towards **intelligent, adaptive agents** that think, collaborate, and create.  
 
 ---
 
@@ -60,7 +61,7 @@
 
 - **Programming & Data** → Python, NumPy, Pandas  
 - **Machine Learning** → Scikit-learn, TensorFlow, Keras, XGBoost  
-- **AI Agents** → Agentic AI, CrewAI, LangChain, Generative AI APIs (OpenAI, Hugging Face)  
+- **AI Agents** → Agentic AI, CrewAI, LangChain, **Generative AI APIs** (OpenAI, Hugging Face, Google Gemini)  
 - **NLP & CV** → NLTK, SpaCy, OpenCV  
 - **Visualization & BI** → Power BI, Excel, Tableau, Matplotlib, Seaborn, Plotly  
 
@@ -68,10 +69,10 @@
 
 ## 🌟 Fun Facts  
 
-- 🔍 Exploring **Agentic AI + CrewAI** to build smarter, collaborative AI systems  
+- 🔍 Currently exploring how **Agentic AI + CrewAI + Generative AI** can power **next-gen multi-agent systems**  
 - 🌐 Love traveling & connecting with diverse communities  
 - 📊 Enjoy turning **complex data → simple, interactive insights**  
-- 📚 Lifelong learner, always chasing the **next big thing in AI**  
+- 📚 Lifelong learner, always chasing the **next big wave in AI**  
 
 ---
 
@@ -85,7 +86,7 @@
 ---
 
 <p align="center">
-  🚀 <b>Always building, always learning</b> – shaping the future with <b>Agentic AI & CrewAI</b>.
+  🚀 <b>Always building, always learning</b> – shaping the future with <b>Agentic AI, CrewAI & Generative AI</b>.
 </p>
 
 ---
