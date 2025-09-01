@@ -61,7 +61,8 @@
 
 - **Programming & Data** → Python, NumPy, Pandas  
 - **Machine Learning** → Scikit-learn, TensorFlow, Keras, XGBoost  
-- **AI Agents** → Agentic AI, CrewAI, LangChain, **Generative AI APIs** (OpenAI, Hugging Face, Google Gemini)  
+- **AI Agents** → Agentic AI, CrewAI, LangChain
+- **Generative AI APIs** (OpenAI, Hugging Face, Google Gemini, Groq)  
 - **NLP & CV** → NLTK, SpaCy, OpenCV  
 - **Visualization & BI** → Power BI, Excel, Tableau, Matplotlib, Seaborn, Plotly  
 
@@ -97,9 +98,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadsanafarooq&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsanafarooq&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsanafarooq&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
