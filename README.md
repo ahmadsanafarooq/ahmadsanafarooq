@@ -90,9 +90,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-sana-farooq/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.kaggle.com/ahmadsanafarooq" target="_blank">
-  <img src="assets/kaggle.svg" height="40" alt="Kaggle"/>
-</a>
+  <a href="https://www.kaggle.com/ahmadsanafarooq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:ahmadsanafarooq@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
