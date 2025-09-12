@@ -90,16 +90,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-sana-farooq/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/ahmadsanafarooq" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="40" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:ahmadsanafarooq@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://mavenanalytics.io/" target="_blank">
-    <img src="https://mavenanalytics.io/logo.svg" height="40" alt="Maven Analytics"/>
+    <img src="https://img.shields.io/badge/Maven_Analytics-FF5733?style=for-the-badge&logo=maven&logoColor=white" alt="Maven Analytics"/>
   </a>
 </p>
 
